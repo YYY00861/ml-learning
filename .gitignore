@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+.python-version
+
+# 数据文件（体积大，不往 GitHub 上传）
+*.csv
+*.xlsx
+*.parquet
+data/
+
+# 编辑器与系统
+.vscode/settings.json
+.idea/
+.DS_Store
+Thumbs.db
+
+# 密钥（永远不要上传）
+.env
+*.key
+credentials.json
