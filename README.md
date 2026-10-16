@@ -16,7 +16,7 @@ python hello.py
 
 ### 第一阶段（第 1–6 周）：Python + 线性代数
 
-- [ ] Day 01 装环境，跑通第一行代码
+- [x] Day 01 装环境，跑通第一行代码
 - [ ] Day 02 Python 基础（变量 / 条件 / 循环）
 - [ ] Day 03 数据结构（list / dict / set / 字符串）
 - [ ] Day 04 函数 / 模块 / 文件读写
